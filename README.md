@@ -1,4 +1,5 @@
 # ChatCRMPlus
+<img width="490" height="327" alt="image" src="https://github.com/user-attachments/assets/0754112e-9a4c-4cb8-8b57-95dfad5f2582" />
 
 **Internal Chat for EspoCRM**  
 **The real-time chat layer for EspoCRM teams.**
@@ -20,6 +21,8 @@ Built for teams that want fast communication without leaving the CRM.
 - Online / Away / Offline status
 
 ---
+<img width="1024" height="579" alt="image" src="https://github.com/user-attachments/assets/6612d355-8fa7-439b-b139-a3a998a286c5" />
+
 
 ## Why ChatCRMPlus
 
