@@ -1,6 +1,8 @@
 # ChatCRMPlus
 <img width="490" height="327" alt="image" src="https://github.com/user-attachments/assets/0754112e-9a4c-4cb8-8b57-95dfad5f2582" />
 
+
+
 **Internal Chat for EspoCRM**  
 **The real-time chat layer for EspoCRM teams.**
 
