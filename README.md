@@ -1,4 +1,4 @@
-# ChatCRMPlus
+# ChatCRMPlus v1.2.0
 <img width="490" height="327" alt="image" src="https://github.com/user-attachments/assets/0754112e-9a4c-4cb8-8b57-95dfad5f2582" />
 
 
