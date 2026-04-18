@@ -103,6 +103,39 @@ ChatCRMPlus is designed to feel natural inside EspoCRM.
 
 ---
 
+  ## Changelog
+
+  ### Version 1.0.2
+
+  ChatCRMPlus `v1.0.2` is a major upgrade focused on message actions, organization, reactions, mentions, notifications, and file handling.
+
+  #### ✏️ Message Actions
+  - **Edit messages** — edit your own messages after sending, with an **edited** tag shown in the conversation
+  - **Delete messages** — soft-delete messages while keeping a clear **This message was deleted** placeholder
+  - **Reply to messages** — quote a specific message and respond in context
+  - **Mark as unread** — flag messages to come back to later
+
+  #### 📌 Organization
+  - **Pin messages** — pin important messages to the top of any room
+  - **Starred messages** — save personal bookmarks across all rooms, accessible from the sidebar
+  - **Forward messages** — forward any message to one or more rooms
+
+  #### 😀 Reactions & Mentions
+  - **Emoji reactions** — react to messages with a quick-pick emoji bar and toggle reactions on or off
+  - **@mention autocomplete** — type `@` to get a live suggestion list of room members, including support for `@all`
+  - **My Mentions view** — a dedicated inbox showing every message that mentioned you, with one-click navigation back to the message in context
+
+  #### 🔕 Notifications
+  - **Mute rooms** — silence notifications per room with a quick right-click toggle
+  - **Busy status** — set yourself as busy to suppress notification sounds
+
+  #### 📎 File Attachments
+  - **Upload any file** via the paperclip button
+  - **Inline image preview** for photos and screenshots
+  - **File chips** with icon, file name, and size for documents, PDFs, and other attachments
+  - **Drag & drop uploads** directly into the chat area
+  - **Clipboard paste support** for screenshots with `Cmd+V` / `Ctrl+V`
+
 ## Setup
 
 ### Live in under 5 minutes
